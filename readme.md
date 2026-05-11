@@ -127,7 +127,7 @@ Embeddings convert agricultural text into high-dimensional semantic vectors.
 
 The project uses:
 
-# FAISS (Facebook AI Similarity Search)
+## FAISS (Facebook AI Similarity Search)
 
 ### Why FAISS?
 
@@ -339,6 +339,8 @@ Different query types require different retrieval approaches.
 ---
 
 # 🖥️ Streamlit UI
+
+![Demo](assets/demo.png)
 
 The project includes a modern Streamlit-based interface with:
 - agricultural-themed UI
