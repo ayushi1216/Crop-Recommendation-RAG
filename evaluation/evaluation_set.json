@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which crop grows well in high rainfall conditions?",
+        "expected_crop": "rice"
+    },
+    {
+        "question": "Which crop is suitable for tropical climate?",
+        "expected_crop": "banana"
+    },
+    {
+        "question": "Compare rice and maize nitrogen requirements.",
+        "expected_crop": "rice"
+    },
+    {
+        "question": "Which crop grows well in humid conditions?",
+        "expected_crop": "rice"
+    },
+    {
+        "question": "Which crop prefers warm temperature and high humidity?",
+        "expected_crop": "banana"
+    },
+    {
+        "question": "Which crop is commonly recommended for acidic soil?",
+        "expected_crop": "rice"
+    },
+    {
+        "question": "Compare watermelon and muskmelon growing conditions.",
+        "expected_crop": "watermelon"
+    },
+    {
+        "question": "Which crop grows well in tropical rainfall?",
+        "expected_crop": "coconut"
+    },
+    {
+        "question": "Which crop requires high humidity for growth?",
+        "expected_crop": "coffee"
+    },
+    {
+        "question": "Compare apple and orange growing environments.",
+        "expected_crop": "apple"
+    },
+    {
+        "question": "Which crop is suitable for rainy climate?",
+        "expected_crop": "jute"
+    },
+    {
+        "question": "Which crop grows well in warm and humid weather?",
+        "expected_crop": "papaya"
+    },
+    {
+        "question": "Compare rice and cotton growing requirements.",
+        "expected_crop": "rice"
+    },
+    {
+        "question": "Which crop is suitable for humid tropical regions?",
+        "expected_crop": "banana"
+    },
+    {
+        "question": "Which crop grows well in wet climate conditions?",
+        "expected_crop": "rice"
+    },
+    {
+        "question": "Compare mango and grapes cultivation conditions.",
+        "expected_crop": "mango"
+    },
+    {
+        "question": "Which crop prefers high rainfall and warm climate?",
+        "expected_crop": "coconut"
+    },
+    {
+        "question": "Which crop is good for tropical weather?",
+        "expected_crop": "papaya"
+    },
+    {
+        "question": "Compare coffee and coconut growing conditions.",
+        "expected_crop": "coffee"
+    },
+    {
+        "question": "Which crop grows best in humid environment?",
+        "expected_crop": "rice"
+    },
+    {
+        "question": "Which crop prefers tropical humidity?",
+        "expected_crop": "banana"
+    },
+    {
+        "question": "Compare banana and papaya climate requirements.",
+        "expected_crop": "banana"
+    },
+    {
+        "question": "Which crop is suitable for warm rainfall conditions?",
+        "expected_crop": "jute"
+    },
+    {
+        "question": "Which crop grows well in tropical humid climate?",
+        "expected_crop": "coconut"
+    },
+    {
+        "question": "Compare rice and coffee environmental needs.",
+        "expected_crop": "rice"
+    }
+]
