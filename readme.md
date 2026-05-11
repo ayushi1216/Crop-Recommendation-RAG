@@ -2,6 +2,8 @@
 
 An end-to-end Retrieval-Augmented Generation (RAG) system for intelligent crop recommendation and agricultural question answering using semantic search, vector databases, and Large Language Models (LLMs).
 
+![Demo](assets/demo.png.png)
+
 
 ---
 
@@ -339,8 +341,6 @@ Different query types require different retrieval approaches.
 ---
 
 # 🖥️ Streamlit UI
-
-![Demo](assets/demo.png)
 
 The project includes a modern Streamlit-based interface with:
 - agricultural-themed UI
